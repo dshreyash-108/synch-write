@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922840641829",
+    "project_id": "synch-write",
+    "storage_bucket": "synch-write.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922840641829:android:486a0ab2d3234d8ae32acc",
+        "android_client_info": {
+          "package_name": "com.example.synchwrite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4khN_k20HQFgqFryO27Pzel2XWv3fgNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
